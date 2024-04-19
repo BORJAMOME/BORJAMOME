@@ -19,5 +19,6 @@ Open to new opportunities that allow me to grow professionally and contribute to
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=purple&labelFontSize=20)](https://www.figma.com/)
 [![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=brown&labelFontSize=20)](https://www.adobe.com/products/illustrator.html)
 
+# 📈 My stats 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=borjamome&show_icons=true&theme=buefy)
