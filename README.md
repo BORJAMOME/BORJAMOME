@@ -2,9 +2,12 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin&logoColor=white&link=URL_DE_TU_PERFIL_DE_LINKEDIN)](https://www.linkedin.com/in/borjamoramendez/)
 
-Hi! 👋🏼 I'm Borja, data analyst and digital marketing strategist with 4 years of experience in the technology field. Passionate about staying abreast of the latest technologies and emerging tools to tackle challenges, provide creative solutions, and add value. Inquisitive, perfectionist, and results-oriented, I enjoy both challenges and collaborative teamwork.
-Developed skills in data extraction, transformation, and visualization, enabling me to generate insights to identify and prioritize growth opportunities. Additionally, I design graphics and dashboards to effectively communicate my research findings.
-Open to new opportunities that allow me to grow professionally and contribute to the development of innovative projects.
+Hi! 👋🏼 I'm Borja, data analyst and digital marketing strategist with 4 years of experience in the technology field.
+- Passionate about staying abreast of the latest technologies and emerging tools to tackle challenges, provide creative solutions, and add value.
+- Inquisitive, perfectionist, and results-oriented, I enjoy both challenges and collaborative teamwork.
+- Developed skills in data extraction, transformation, and visualization, enabling me to generate insights to identify and prioritize growth opportunities. 
+- Additionally, I design graphics and dashboards to effectively communicate my research findings.
+- Open to new opportunities that allow me to grow professionally and contribute to the development of innovative projects.
 
 ---
 # 🛠️ Lenguages & Tools 
