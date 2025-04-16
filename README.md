@@ -2,14 +2,14 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/borjamoramendez/)
 
-Soy **Analista de Datos**, con background en **Marketing y Publicidad**, y una pasión especial por contar historias a través de los datos.
+**Analista de Datos**, con background en **Marketing y Publicidad**, y una pasión especial por contar historias a través de los datos.
 
 Tras varios años trabajando en el mundo del marketing digital y los medios, decidí dar un giro profesional y formarme como **analista de datos**. Hoy combino lo mejor de ambos mundos: la visión estratégica del marketing con la precisión analítica del dato.
 
 Me motiva entender el comportamiento detrás de los datos y traducirlo en decisiones claras, visuales efectivas y soluciones que aporten valor real.
 
 
-## 🧠 Sobre mí
+## Sobre mí
 
 - Especializado en **Visualización de Datos** y **Storytelling**
 - Amante del buen diseño: me guío por los principios de Gestalt y la accesibilidad visual
