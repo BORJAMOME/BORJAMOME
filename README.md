@@ -16,8 +16,6 @@ Me motiva entender el comportamiento detrás de los datos y traducirlo en decisi
 - Experiencia en proyectos de marketing, consultoría y medios digitales
 - Siempre aprendiendo algo nuevo en el cruce entre datos, diseño y estrategia
 
-## Proyectos destacados
-
 
 ## Herramientas que uso a diario
 
@@ -25,13 +23,11 @@ Me motiva entender el comportamiento detrás de los datos y traducirlo en decisi
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)](https://www.r-project.org/)
-[![Looker](https://img.shields.io/badge/Looker-00B4F0?style=flat-square&logo=looker&logoColor=white)](https://looker.com/)
-[![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white)](https://qgis.org/)
 [![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
 [![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=google-sheets&logoColor=white)](https://www.google.com/sheets/about/)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)](https://www.figma.com/)
-[![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white)](https://www.adobe.com/products/illustrator.html)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/borjamome)
+[![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white)](https://qgis.org/)
+
 
 
 ## 📈 Mis estadísticas en GitHub
