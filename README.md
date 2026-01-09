@@ -4,17 +4,7 @@
 Power BI Developer · BI & Data Analytics · Data Visualization · Data Storytelling · Ex-Marketer 
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/borjamoramendez/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://borjamora.es">
-    <img src="https://img.shields.io/badge/Portfolio-borjamora.es-000000?style=flat-square&logo=google-chrome&logoColor=white"/>
-  </a>
-  <a href="mailto:borja.mora.mendez@gmail.com">
-    <img src="https://img.shields.io/badge/Email-333333?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+
 
 
 ### Qué hago
@@ -45,15 +35,26 @@ Power BI Developer · BI & Data Analytics · Data Visualization · Data Storytel
 ![Storytelling with Data](https://img.shields.io/badge/Storytelling%20with%20Data-6A1B9A?style=for-the-badge&logo=bookstack&logoColor=white)
 
 
-
-
-
-
 ### Otras competencias técnicas
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logoColor=white)
+
+
+--- 
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/borjamoramendez/">
+    <img src="https://img.shields.io/badge/LinkedIn%20Profesional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://borjamora.es">
+    <img src="https://img.shields.io/badge/Portfolio%20Personal-0B0B0B?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="mailto:borja.mora.mendez@gmail.com">
+    <img src="https://img.shields.io/badge/Contacto%20Directo-1A1A1A?style=for-the-badge&logo=protonmail&logoColor=white"/>
+  </a>
+</p>
 
 
 
