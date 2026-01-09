@@ -38,19 +38,16 @@ En este GitHub recopilo proyectos de **Business Intelligence y análisis de dato
 
 
 ---
-
-
 ## 🎓 Certificación
 
-- **Microsoft — Power BI Data Analyst Associate (PL-300)**
+![PL-300](https://img.shields.io/badge/Microsoft_PL--300_Power_BI_Data_Analyst-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
 ---
-#### 🧠 Top Expertise
+#### 🧠 Especialización principal
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logoColor=black)
 ![Power Query](https://img.shields.io/badge/Power_Query-4A8A2B?style=for-the-badge&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logoColor=white)
 ![BI_Analytics](https://img.shields.io/badge/BI_&_Analytics-333333?style=for-the-badge&logoColor=white)
 ![Data_Visualization](https://img.shields.io/badge/Data_Visualization-5A5A5A?style=for-the-badge&logoColor=white)
 ![KPI_Design](https://img.shields.io/badge/KPI_Design-0A66C2?style=for-the-badge&logoColor=white)
@@ -59,9 +56,12 @@ En este GitHub recopilo proyectos de **Business Intelligence y análisis de dato
 
 ---
 
-## 🤝 Contacto
+#### 📚 Additional Knowledge
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logoColor=white)
 
-📩 **borja.mora.mendez@gmail.com**  
-🔗 **LinkedIn**: https://www.linkedin.com/in/borjamoramendez/
+
 
 
