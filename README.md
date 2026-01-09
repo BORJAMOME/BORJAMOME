@@ -36,73 +36,26 @@ En este GitHub recopilo proyectos de **Business Intelligence y análisis de dato
 - Storytelling con datos para equipos técnicos y no técnicos
 - Visualización clara, limpia y enfocada en decisiones
 
----
-
-## 🧰 Stack técnico
-
-### Business Intelligence
-- **Power BI** (modelado, DAX, diseño de dashboards)
-- Definición de KPIs y métricas de rendimiento
-- Visualización y experiencia de usuario
-
-### Datos y análisis
-- **SQL (MySQL)** → limpieza, agregaciones y análisis
-- **Python** → Pandas, EDA y preparación de datos
-- **R** → análisis estadístico y visualización (tidyverse, ggplot2)
-
-### Enfoque
-- Modelos de datos claros y mantenibles
-- Análisis reproducible
-- Visualización sin ruido
-- Criterio de negocio por encima del volumen de gráficos
 
 ---
 
-## 📂 Portfolio de proyectos
-
-Mis proyectos están organizados en el repositorio principal:
-
-👉 **data-analytics-portfolio**
-
-Incluyen:
-- Análisis en **SQL**
-- Proyectos de **Python** y **R**
-- Casos orientados a **Business Intelligence**
-- Documentación clara del contexto, proceso y conclusiones
-
-Cada proyecto refleja **cómo pienso y cómo abordo un problema analítico**, no solo el resultado final.
-
----
-
-## ⭐ Proyectos destacados
-
-| Proyecto | Enfoque | Tecnologías |
-|--------|--------|-------------|
-| Radiografía de Madrid | Análisis socioeconómico y territorial | R · tidyverse · ggplot2 |
-| Análisis de Goleadores | Exploración y visualización de rendimiento | R · ggplot2 |
-| Titanic Survival Analysis | Limpieza y análisis exploratorio de datos | Python · Pandas |
-| Airbnb Menorca Analysis | Análisis y consultas analíticas | SQL · MySQL |
-
----
 
 ## 🎓 Certificación
 
 - **Microsoft — Power BI Data Analyst Associate (PL-300)**
 
 ---
+#### 🧠 Top Expertise
 
-## 🎯 Mi valor
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logoColor=black)
+![Power Query](https://img.shields.io/badge/Power_Query-4A8A2B?style=for-the-badge&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logoColor=white)
+![BI_Analytics](https://img.shields.io/badge/BI_&_Analytics-333333?style=for-the-badge&logoColor=white)
+![Data_Visualization](https://img.shields.io/badge/Data_Visualization-5A5A5A?style=for-the-badge&logoColor=white)
+![KPI_Design](https://img.shields.io/badge/KPI_Design-0A66C2?style=for-the-badge&logoColor=white)
+![Storytelling_with_Data](https://img.shields.io/badge/Storytelling_with_Data-6A1B9A?style=for-the-badge&logoColor=white)
 
-Transformo métricas dispersas en **insights claros**, detecto patrones relevantes y ayudo a que los datos se conviertan en **decisiones con impacto real**.
-
----
-
-## 🚀 Objetivo profesional
-
-Busco oportunidades como **Power BI Developer** o **Data Analyst**, donde pueda aportar:
-- Claridad analítica
-- Optimización de modelos y dashboards
-- Soluciones basadas en datos y orientadas a negocio
 
 ---
 
