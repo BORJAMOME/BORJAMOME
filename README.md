@@ -16,6 +16,9 @@ Power BI, DAX, SQL y Python aplicados a problemas reales de negocio.
 
 **[Data-Analytics-Portfolio](https://github.com/BORJAMOME/Data-Analytics-Portfolio)** — 30 notebooks de Machine Learning, análisis exploratorio en Python y SQL aplicados a casos de negocio.
 
+> Destacados ML:
+> [Clasificación fintech con MLP](https://github.com/BORJAMOME/Data-Analytics-Portfolio/tree/main/03-Machine-Learning/03-redes-neuronales/mlp/01-clasificacion-fintech) · [Segmentación de clientes con K-Means](https://github.com/BORJAMOME/Data-Analytics-Portfolio/tree/main/03-Machine-Learning/02-no-supervisado/clustering/kmeans/01-caso-clientes-retail) · [Forecast retail con ARIMA](https://github.com/BORJAMOME/Data-Analytics-Portfolio/tree/main/03-Machine-Learning/04-series-temporales/arima/01-caso-retail)
+
 **[DAX-LAB](https://github.com/BORJAMOME/DAX-LAB)** — Patrones DAX reutilizables, optimización de rendimiento y casos de uso reales en Power BI.
 
 **[PBI Mockup Creator](https://github.com/BORJAMOME/powerbi-mockup)** — Herramienta para diseñar dashboards antes de construirlos. [Probar →](https://borjamome.github.io/powerbi-mockup/)
