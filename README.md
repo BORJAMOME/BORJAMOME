@@ -32,7 +32,7 @@ FP-GROWTH       179.112 tickets  →   reglas de asociación con lift de hasta 3
 Herramienta propia para diseñar y validar la estructura de un dashboard antes de construirlo en Power BI.
 
 ```
-15+ TIPOS DE VISUAL   ·   PATRONES DE LECTURA Z/F   ·   EXPORTACIÓN PNG/PDF
++15 TIPOS DE VISUAL   ·   PATRONES DE LECTURA Z/F   ·   EXPORTACIÓN PNG/PDF
 ```
 
 ---
