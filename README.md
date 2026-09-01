@@ -14,8 +14,6 @@ Aquí podrás encontrar los proyectos de mi proceso de formación como analista 
 
 ### CASA ORIGEN — SEGMENTACIÓN DE CLIENTES Y CESTA DE LA COMPRA
 
-<img src="https://img.shields.io/badge/PROYECTO_PRINCIPAL-A3223E?style=for-the-badge" alt="Proyecto principal" />
-
 [`github.com/BORJAMOME/casa-origen-analytics`](https://github.com/BORJAMOME/casa-origen-analytics) → [`DASHBOARD EN VIVO`](https://borjamora.es/casa-origen.html)
 
 Caso de negocio completo: ETL con arquitectura Medallion en SQL Server → modelo Power BI → Machine Learning.
