@@ -43,7 +43,7 @@ Herramienta propia para diseñar y validar la estructura de un dashboard antes d
 
 30+ notebooks de SQL, Python, Machine Learning e IA aplicados a casos de negocio.
 
-DESTACADOS → [Clasificación fintech con MLP](https://github.com/BORJAMOME/Data-Analytics-Portfolio/tree/main/03-Machine-Learning/03-redes-neuronales/mlp/01-clasificacion-fintech) · [Segmentación de clientes con K-Means](https://github.com/BORJAMOME/Data-Analytics-Portfolio/tree/main/03-Machine-Learning/02-no-supervisado/clustering/kmeans/01-caso-clientes-retail) · [Forecast retail con ARIMA](https://github.com/BORJAMOME/Data-Analytics-Portfolio/tree/main/03-Machine-Learning/04-series-temporales/arima/01-caso-retail)
+DESTACADOS → [Clasificación fintech con MLP](https://github.com/BORJAMOME/Data-Analytics-Portfolio/tree/main/03-Machine-Learning/03-redes-neuronales/mlp/01-clasificacion-fintech) · [Segmentación de clientes con K-Means](https://github.com/BORJAMOME/Data-Analytics-Portfolio/tree/main/03-Machine-Learning/02-no-supervisado/clustering/kmeans/01-segmentacion-clientes-retail) · [Forecast retail con ARIMA](https://github.com/BORJAMOME/Data-Analytics-Portfolio/tree/main/03-Machine-Learning/04-series-temporales/arima/03-forecast-ventas-retail)
 
 ---
 
