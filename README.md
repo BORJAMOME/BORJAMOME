@@ -37,7 +37,7 @@ Herramienta propia para diseñar y validar la estructura de un dashboard antes d
 
 ---
 
-### DATA-ANALYTICS-PORTFOLIO
+### PORTFOLIO DE PROYECTOS DE ANÁLISIS DE DATOS (SQL, PYTHON y MACHINE LEARNING)
 
 [`github.com/BORJAMOME/Data-Analytics-Portfolio`](https://github.com/BORJAMOME/Data-Analytics-Portfolio)
 
