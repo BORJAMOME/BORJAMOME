@@ -8,7 +8,8 @@ Aquí podrás encontrar los proyectos de mi proceso de formación como analista 
   <img src="https://img.shields.io/badge/MICROSOFT_CERTIFIED-PL--300_POWER_BI_DATA_ANALYST-111111?style=for-the-badge&logo=microsoft&logoColor=white" alt="PL-300" />
 </a>
 
-[`BORJAMORA.ES`](https://borjamora.es) · [`LINKEDIN`](https://www.linkedin.com/in/borjamoramendez/) · [`BORJA.MORA.MENDEZ@GMAIL.COM`](mailto:borja.mora.mendez@gmail.com)
+[WEB](https://borjamora.es) · [LINKEDIN](https://www.linkedin.com/in/borjamoramendez/) · [EMAIL](mailto:borja.mora.mendez@gmail.com)
+
 ---
 
 ## PROYECTOS
