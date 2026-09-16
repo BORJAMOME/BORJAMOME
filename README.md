@@ -16,12 +16,7 @@ Aquí podrás encontrar los proyectos de mi proceso de formación como analista 
 
 [`github.com/BORJAMOME/casa-origen-analytics`](https://github.com/BORJAMOME/casa-origen-analytics) → [`DASHBOARD EN VIVO`](https://borjamora.es/casa-origen.html)
 
-Caso de negocio completo: ETL con arquitectura Medallion en SQL Server → modelo Power BI → Machine Learning.
-
-```
-RFM + K-MEANS   1.200 clientes   →   52,7% (Champions + Loyal) genera el 70,7% del revenue
-FP-GROWTH       179.112 tickets  →   reglas de asociación con lift de hasta 3,46
-```
+Caso de negocio completo: ETL con arquitectura Medallion en SQL Server → modelo y visualización en Power BI → Machine Learning (RFM + K-MEANS, FP-GROWTH)
 
 ---
 
@@ -30,10 +25,6 @@ FP-GROWTH       179.112 tickets  →   reglas de asociación con lift de hasta 3
 [`github.com/BORJAMOME/powerbi-mockup`](https://github.com/BORJAMOME/powerbi-mockup) → [`PROBAR EN VIVO`](https://borjamome.github.io/powerbi-mockup/)
 
 Herramienta propia para diseñar y validar la estructura de un dashboard antes de construirlo en Power BI.
-
-```
-+15 TIPOS DE VISUAL   ·   PATRONES DE LECTURA Z/F   ·   EXPORTACIÓN PNG/PDF
-```
 
 ---
 
