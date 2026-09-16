@@ -16,7 +16,9 @@ Aquí podrás encontrar los proyectos de mi proceso de formación como analista 
 
 [`github.com/BORJAMOME/casa-origen-analytics`](https://github.com/BORJAMOME/casa-origen-analytics) → [`DASHBOARD EN VIVO`](https://borjamora.es/casa-origen.html)
 
-Caso de negocio completo: ETL con arquitectura Medallion en SQL Server → modelo y visualización en Power BI → Machine Learning (RFM + K-MEANS, FP-GROWTH)
+**Segmentación de clientes · Análisis de cesta · Power BI · Machine Learning**
+
+Un proyecto completo de analítica comercial, desde la transformación de los datos hasta la construcción del modelo y la interpretación de los resultados: ETL con arquitectura Medallion en SQL Server → modelo y visualización en Power BI → Machine Learning (RFM + K-MEANS, FP-GROWTH)
 
 ---
 
@@ -24,7 +26,7 @@ Caso de negocio completo: ETL con arquitectura Medallion en SQL Server → model
 
 [`github.com/BORJAMOME/powerbi-mockup`](https://github.com/BORJAMOME/powerbi-mockup) → [`PROBAR EN VIVO`](https://borjamome.github.io/powerbi-mockup/)
 
-Herramienta propia para diseñar y validar la estructura de un dashboard antes de construirlo en Power BI.
+Una herramienta propia para trabajar la estructura, jerarquía y composición de un informe antes de llevarlo a Power BI.
 
 ---
 
@@ -32,7 +34,7 @@ Herramienta propia para diseñar y validar la estructura de un dashboard antes d
 
 [`github.com/BORJAMOME/Data-Analytics-Portfolio`](https://github.com/BORJAMOME/Data-Analytics-Portfolio)
 
-30+ notebooks de SQL, Python, Machine Learning e IA aplicados a casos de negocio.
+Más de 30 notebooks y proyectos de SQL, Python, análisis exploratorio y Machine Learning, aplicados a diferentes casos de negocio.
 
 DESTACADOS → [Clasificación fintech con MLP](https://github.com/BORJAMOME/Data-Analytics-Portfolio/tree/main/03-Machine-Learning/03-redes-neuronales/mlp/01-clasificacion-fintech) · [Segmentación de clientes con K-Means](https://github.com/BORJAMOME/Data-Analytics-Portfolio/tree/main/03-Machine-Learning/02-no-supervisado/clustering/kmeans/01-segmentacion-clientes-retail) · [Forecast retail con ARIMA](https://github.com/BORJAMOME/Data-Analytics-Portfolio/tree/main/03-Machine-Learning/04-series-temporales/arima/03-forecast-ventas-retail)
 
