@@ -10,7 +10,7 @@ Aquí podrás encontrar los proyectos de mi proceso de formación como analista 
 
 ---
 
-## [ 01 ] PROYECTOS
+## 01. PROYECTOS
 
 ### CASA ORIGEN — SEGMENTACIÓN DE CLIENTES Y CESTA DE LA COMPRA
 
@@ -55,7 +55,7 @@ Patrones DAX reutilizables, optimización de rendimiento y casos de uso reales e
 
 ---
 
-## [ 02 ] STACK
+## 02. STACK TÉCNICO
 
 ```
 BI & VISUALIZACIÓN     POWER BI · DAX
@@ -65,6 +65,6 @@ MACHINE LEARNING       SCIKIT-LEARN · TENSORFLOW
 
 ---
 
-## [ 03 ] CONTACTO
+## 03. CONTACTO
 
 [`BORJAMORA.ES`](https://borjamora.es) · [`LINKEDIN`](https://www.linkedin.com/in/borjamoramendez/) · [`BORJA.MORA.MENDEZ@GMAIL.COM`](mailto:borja.mora.mendez@gmail.com)
