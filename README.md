@@ -8,9 +8,10 @@ Aquí podrás encontrar los proyectos de mi proceso de formación como analista 
   <img src="https://img.shields.io/badge/MICROSOFT_CERTIFIED-PL--300_POWER_BI_DATA_ANALYST-111111?style=for-the-badge&logo=microsoft&logoColor=white" alt="PL-300" />
 </a>
 
+[`BORJAMORA.ES`](https://borjamora.es) · [`LINKEDIN`](https://www.linkedin.com/in/borjamoramendez/) · [`BORJA.MORA.MENDEZ@GMAIL.COM`](mailto:borja.mora.mendez@gmail.com)
 ---
 
-## 01. PROYECTOS
+## PROYECTOS
 
 ### CASA ORIGEN — SEGMENTACIÓN DE CLIENTES Y CESTA DE LA COMPRA
 
@@ -48,7 +49,7 @@ Patrones DAX reutilizables, optimización de rendimiento y casos de uso reales e
 
 ---
 
-## 02. STACK TÉCNICO
+## STACK TÉCNICO
 
 ```
 BI & VISUALIZACIÓN     POWER BI · DAX
@@ -56,8 +57,4 @@ LENGUAJES & DATOS      SQL SERVER · PYTHON · PANDAS
 MACHINE LEARNING       SCIKIT-LEARN · TENSORFLOW
 ```
 
----
 
-## 03. CONTACTO
-
-[`BORJAMORA.ES`](https://borjamora.es) · [`LINKEDIN`](https://www.linkedin.com/in/borjamoramendez/) · [`BORJA.MORA.MENDEZ@GMAIL.COM`](mailto:borja.mora.mendez@gmail.com)
