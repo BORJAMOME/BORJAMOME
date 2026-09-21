@@ -4,7 +4,7 @@
 
 Aquí podrás encontrar los proyectos de mi proceso de formación como analista de datos: Machine Learning, visualización de datos, DAX, SQL y más.
 
-<a href="https://learn.microsoft.com/es-es/credentials/certifications/power-bi-data-analyst-associate/">
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/BorjaMoMe-4670/FBA3A18829AE27A1">
   <img src="https://img.shields.io/badge/MICROSOFT_CERTIFIED-PL--300_POWER_BI_DATA_ANALYST-111111?style=for-the-badge&logo=microsoft&logoColor=white" alt="PL-300" />
 </a>
 
@@ -37,9 +37,21 @@ Una herramienta propia para trabajar la estructura, jerarquía y composición de
 
 [`github.com/BORJAMOME/Data-Analytics-Portfolio`](https://github.com/BORJAMOME/Data-Analytics-Portfolio)
 
-Más de 30 notebooks y proyectos de SQL, Python, análisis exploratorio y Machine Learning, aplicados a diferentes casos de negocio.
+Más de 50 notebooks y proyectos de SQL, Python, análisis exploratorio y Machine Learning, aplicados a diferentes casos de negocio.
 
 DESTACADOS → [Clasificación fintech con MLP](https://github.com/BORJAMOME/Data-Analytics-Portfolio/tree/main/03-Machine-Learning/03-redes-neuronales/mlp/01-clasificacion-fintech) · [Segmentación de clientes con K-Means](https://github.com/BORJAMOME/Data-Analytics-Portfolio/tree/main/03-Machine-Learning/02-no-supervisado/clustering/kmeans/01-segmentacion-clientes-retail) · [Forecast retail con ARIMA](https://github.com/BORJAMOME/Data-Analytics-Portfolio/tree/main/03-Machine-Learning/04-series-temporales/arima/03-forecast-ventas-retail)
+
+---
+
+### CASOS DE MACHINE LEARNING EN STREAMLIT
+
+Cinco casos de ML convertidos en reportajes de datos interactivos: parten del problema de negocio, explican el método en lenguaje llano y dejan explorar los resultados.
+
+- **Segmentación de clientes retail** (K-Means + t-SNE) → [`APP`](https://segmentacion-retail.streamlit.app) · [`CÓDIGO`](https://github.com/BORJAMOME/segmentacion-retail-app)
+- **Comparativa de modelos de clasificación** (aerolínea) → [`APP`](https://comparativa-modelos-aerolinea.streamlit.app) · [`CÓDIGO`](https://github.com/BORJAMOME/comparativa-modelos-aerolinea-app)
+- **Previsión de ventas retail** (SARIMA vs SARIMAX) → [`APP`](https://forecast-ventas-retail-app-w5msdvcsbuxas94qjcdore.streamlit.app) · [`CÓDIGO`](https://github.com/BORJAMOME/forecast-ventas-retail-app)
+- **Ventas semanales retail** (SARIMA, solo con el histórico) → [`APP`](https://sarima-ventas-retail.streamlit.app) · [`CÓDIGO`](https://github.com/BORJAMOME/sarima-ventas-retail-app)
+- **Preferencias de vuelos** (análisis conjoint) → [`APP`](https://preferencias-vuelos.streamlit.app) · [`CÓDIGO`](https://github.com/BORJAMOME/conjoint-vuelos-app)
 
 ---
 
