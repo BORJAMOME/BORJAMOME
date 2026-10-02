@@ -63,12 +63,11 @@ Patrones DAX reutilizables, optimización de rendimiento y casos de uso reales e
 
 ---
 
-## STACK TÉCNICO
-
-```
-BI & VISUALIZACIÓN     POWER BI · DAX
-LENGUAJES & DATOS      SQL SERVER · PYTHON · PANDAS
-MACHINE LEARNING       SCIKIT-LEARN · TENSORFLOW
-```
+<p align="center">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/DAX-4472C4?style=flat&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+</p>
 
 
