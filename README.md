@@ -8,16 +8,11 @@ Analista de Datos especializado en Power BI, con conocimientos en DAX, SQL y Pyt
   <img src="https://img.shields.io/badge/MICROSOFT_CERTIFIED-PL--300_POWER_BI_DATA_ANALYST-F2C811?style=flat-square&logo=microsoft&logoColor=black" alt="Microsoft Certified PL-300 Power BI Data Analyst" />
 </a>
 
-<p align="center">
-  <a href="https://borjamora.es">
-    <img src="https://img.shields.io/badge/WORK-FFFFFF?style=flat-square&labelColor=FFFFFF&color=FFFFFF&logoColor=000000" />
-  </a>
-  <a href="https://www.linkedin.com/in/borjamoramendez/">
-    <img src="https://img.shields.io/badge/LINKEDIN-FFFFFF?style=flat-square&labelColor=FFFFFF&color=FFFFFF&logo=linkedin&logoColor=000000" />
-  </a>
-  <a href="mailto:borja.mora.mendez@gmail.com">
-    <img src="https://img.shields.io/badge/CONTACT-FFFFFF?style=flat-square&labelColor=FFFFFF&color=FFFFFF" />
-  </a>
+<p align="left">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/DAX-4472C4?style=flat&logo=microsoft&logoColor=white" alt="DAX" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=databricks&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
 </p>
 
 ### PROYECTOS
@@ -36,12 +31,6 @@ Analista de Datos especializado en Power BI, con conocimientos en DAX, SQL y Pyt
 
 <br>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/DAX-4472C4?style=flat&logo=microsoft&logoColor=white" alt="DAX" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=databricks&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
-</p>
 
 <p align="center">
   <a href="https://borjamora.es">
