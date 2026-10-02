@@ -9,54 +9,18 @@ Analista de Datos especializado en Power BI, con conocimientos en DAX, SQL y Pyt
 </a>
 
 <p>
-  <a href="https://borjamora.es">↗ PORTFOLIO</a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/borjamoramendez/">↗ LINKEDIN</a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:borja.mora.mendez@gmail.com">↗ EMAIL</a>
-</p>
-
-<p>
-  <a href="https://borjamora.es"><strong>PORTFOLIO</strong> ↗</a>
-  &nbsp;&nbsp;
-  <span>·</span>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/borjamoramendez/">LINKEDIN ↗</a>
-  &nbsp;&nbsp;
-  <span>·</span>
-  &nbsp;&nbsp;
-  <a href="mailto:borja.mora.mendez@gmail.com">SAY HELLO ↗</a>
-</p>
-
-<p>
-  <a href="https://borjamora.es"><strong>WORK</strong> ↗</a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/borjamoramendez/">NETWORK ↗</a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:borja.mora.mendez@gmail.com">CONTACT ↗</a>
-</p>
-
-<p>
-  <a href="https://borjamora.es">WORK ↗</a>
-  &nbsp; / &nbsp;
-  <a href="https://www.linkedin.com/in/borjamoramendez/">LINKEDIN ↗</a>
-  &nbsp; / &nbsp;
-  <a href="mailto:borja.mora.mendez@gmail.com">CONTACT ↗</a>
-</p>
-
-<p>
   <a href="https://borjamora.es">
-    <img src="https://img.shields.io/badge/WORK-F2C811?style=flat-square&logoColor=black" />
+    <img src="https://img.shields.io/badge/WORK-FFFFFF?style=flat-square&labelColor=FFFFFF&color=000000&logoColor=000000" />
   </a>
   <a href="https://www.linkedin.com/in/borjamoramendez/">
-    <img src="https://img.shields.io/badge/LINKEDIN-111111?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LINKEDIN-FFFFFF?style=flat-square&labelColor=FFFFFF&color=000000&logo=linkedin&logoColor=000000" />
   </a>
   <a href="mailto:borja.mora.mendez@gmail.com">
-    <img src="https://img.shields.io/badge/CONTACT-111111?style=flat-square&logoColor=white" />
+    <img src="https://img.shields.io/badge/CONTACT-FFFFFF?style=flat-square&labelColor=FFFFFF&color=000000" />
   </a>
 </p>
 
-## PROYECTOS
+### PROYECTOS
 
 **CASA ORIGEN** — Segmentación de clientes y cesta de la compra
 [REPOSITORIO](https://github.com/BORJAMOME/casa-origen-analytics) · [DASHBOARD](https://borjamora.es/casa-origen.html)
