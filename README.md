@@ -9,11 +9,51 @@ Analista de Datos especializado en Power BI, con conocimientos en DAX, SQL y Pyt
 </a>
 
 <p>
-  <a href="https://borjamora.es"><strong>VER PORTFOLIO →</strong></a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/borjamoramendez/">LINKEDIN</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="mailto:borja.mora.mendez@gmail.com">CONTACTO</a>
+  <a href="https://borjamora.es">↗ PORTFOLIO</a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/borjamoramendez/">↗ LINKEDIN</a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:borja.mora.mendez@gmail.com">↗ EMAIL</a>
+</p>
+
+<p>
+  <a href="https://borjamora.es"><strong>PORTFOLIO</strong> ↗</a>
+  &nbsp;&nbsp;
+  <span>·</span>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/borjamoramendez/">LINKEDIN ↗</a>
+  &nbsp;&nbsp;
+  <span>·</span>
+  &nbsp;&nbsp;
+  <a href="mailto:borja.mora.mendez@gmail.com">SAY HELLO ↗</a>
+</p>
+
+<p>
+  <a href="https://borjamora.es"><strong>WORK</strong> ↗</a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/borjamoramendez/">NETWORK ↗</a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:borja.mora.mendez@gmail.com">CONTACT ↗</a>
+</p>
+
+<p>
+  <a href="https://borjamora.es">WORK ↗</a>
+  &nbsp; / &nbsp;
+  <a href="https://www.linkedin.com/in/borjamoramendez/">LINKEDIN ↗</a>
+  &nbsp; / &nbsp;
+  <a href="mailto:borja.mora.mendez@gmail.com">CONTACT ↗</a>
+</p>
+
+<p>
+  <a href="https://borjamora.es">
+    <img src="https://img.shields.io/badge/WORK-F2C811?style=flat-square&logoColor=black" />
+  </a>
+  <a href="https://www.linkedin.com/in/borjamoramendez/">
+    <img src="https://img.shields.io/badge/LINKEDIN-111111?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:borja.mora.mendez@gmail.com">
+    <img src="https://img.shields.io/badge/CONTACT-111111?style=flat-square&logoColor=white" />
+  </a>
 </p>
 
 ## PROYECTOS
