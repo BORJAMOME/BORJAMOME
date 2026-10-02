@@ -9,7 +9,7 @@ Analista de Datos especializado en Power BI, con conocimientos en DAX, SQL y Pyt
 </a>
 
 <p>
-  <a href="https://borjamora.es">PORTFOLIO</a>
+  <a href="https://borjamora.es"><strong>VER PORTFOLIO →</strong></a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/borjamoramendez/">LINKEDIN</a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
