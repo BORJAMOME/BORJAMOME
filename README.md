@@ -10,13 +10,13 @@ Analista de Datos especializado en Power BI, con conocimientos en DAX, SQL y Pyt
 
 <p>
   <a href="https://borjamora.es">
-    <img src="https://img.shields.io/badge/WORK-FFFFFF?style=flat-square&labelColor=FFFFFF&color=000000&logoColor=000000" />
+    <img src="https://img.shields.io/badge/WORK-FFFFFF?style=flat-square&labelColor=FFFFFF&color=FFFFFF&logoColor=000000" />
   </a>
   <a href="https://www.linkedin.com/in/borjamoramendez/">
-    <img src="https://img.shields.io/badge/LINKEDIN-FFFFFF?style=flat-square&labelColor=FFFFFF&color=000000&logo=linkedin&logoColor=000000" />
+    <img src="https://img.shields.io/badge/LINKEDIN-FFFFFF?style=flat-square&labelColor=FFFFFF&color=FFFFFF&logo=linkedin&logoColor=000000" />
   </a>
   <a href="mailto:borja.mora.mendez@gmail.com">
-    <img src="https://img.shields.io/badge/CONTACT-FFFFFF?style=flat-square&labelColor=FFFFFF&color=000000" />
+    <img src="https://img.shields.io/badge/CONTACT-FFFFFF?style=flat-square&labelColor=FFFFFF&color=FFFFFF" />
   </a>
 </p>
 
