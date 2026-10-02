@@ -8,8 +8,13 @@ Analista de Datos especializado en Power BI, con conocimientos en DAX, SQL y Pyt
   <img src="https://img.shields.io/badge/MICROSOFT_CERTIFIED-PL--300_POWER_BI_DATA_ANALYST-F2C811?style=flat-square&logo=microsoft&logoColor=black" alt="Microsoft Certified PL-300 Power BI Data Analyst" />
 </a>
 
-[PORTFOLIO](https://borjamora.es) · [LINKEDIN](https://www.linkedin.com/in/borjamoramendez/) · [EMAIL](mailto:borja.mora.mendez@gmail.com)
-
+<p>
+  <a href="https://borjamora.es">PORTFOLIO</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/borjamoramendez/">LINKEDIN</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="mailto:borja.mora.mendez@gmail.com">CONTACTO</a>
+</p>
 ---
 
 ## PROYECTOS
