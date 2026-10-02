@@ -5,19 +5,7 @@
 Analista de Datos especializado en Power BI, con conocimientos en DAX, SQL y Python. Aquí comparto proyectos de Business Intelligence, visualización de datos y Machine Learning desarrollados durante mi formación.
 
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/BorjaMoMe-4670/FBA3A18829AE27A1">
-  <img src="https://img.shields.io/badge/MICROSOFT_CERTIFIED-PL--300_POWER_BI_DATA_ANALYST-111111?style=flat&logo=microsoft&logoColor=white" alt="Microsoft Certified PL-300 Power BI Data Analyst" />
-</a>
-
-<a href="https://learn.microsoft.com/api/credentials/share/en-us/BorjaMoMe-4670/FBA3A18829AE27A1">
-  <img src="https://img.shields.io/badge/MICROSOFT_CERTIFIED-PL--300_POWER_BI_DATA_ANALYST-111111?style=flat-square&logo=microsoft&logoColor=white" alt="Microsoft Certified PL-300 Power BI Data Analyst" />
-</a>
-
-<a href="https://learn.microsoft.com/api/credentials/share/en-us/BorjaMoMe-4670/FBA3A18829AE27A1">
-  <img src="https://img.shields.io/badge/MICROSOFT_CERTIFIED-PL--300_POWER_BI_DATA_ANALYST-111111?style=plastic&logo=microsoft&logoColor=white" alt="Microsoft Certified PL-300 Power BI Data Analyst" />
-</a>
-
-<a href="https://learn.microsoft.com/api/credentials/share/en-us/BorjaMoMe-4670/FBA3A18829AE27A1">
-  <img src="https://img.shields.io/badge/Microsoft%20Certified-PL--300%20Power%20BI%20Data%20Analyst-111111?style=social&logo=microsoft&logoColor=white" alt="Microsoft Certified PL-300 Power BI Data Analyst" />
+  <img src="https://img.shields.io/badge/MICROSOFT_CERTIFIED-PL--300_POWER_BI_DATA_ANALYST-F2C811?style=flat-square&logo=microsoft&logoColor=black" alt="Microsoft Certified PL-300 Power BI Data Analyst" />
 </a>
 
 [PORTFOLIO](https://borjamora.es) · [LINKEDIN](https://www.linkedin.com/in/borjamoramendez/) · [EMAIL](mailto:borja.mora.mendez@gmail.com)
