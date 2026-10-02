@@ -15,7 +15,6 @@ Analista de Datos especializado en Power BI, con conocimientos en DAX, SQL y Pyt
   &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="mailto:borja.mora.mendez@gmail.com">CONTACTO</a>
 </p>
----
 
 ## PROYECTOS
 
