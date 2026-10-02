@@ -16,7 +16,6 @@ Analista de Datos especializado en Power BI, con conocimientos en DAX, SQL y Pyt
 
 **CASA ORIGEN** — Segmentación de clientes y cesta de la compra
 [REPOSITORIO](https://github.com/BORJAMOME/casa-origen-analytics) · [DASHBOARD](https://borjamora.es/casa-origen.html)
-`SQL SERVER` `POWER BI` `DAX` `PYTHON` `MACHINE LEARNING`
 
 **PBI MOCKUP CREATOR** — Herramienta para diseñar y estructurar informes antes de desarrollarlos en Power BI
 [REPOSITORIO](https://github.com/BORJAMOME/powerbi-mockup) · [PROBAR](https://borjamome.github.io/powerbi-mockup/)
