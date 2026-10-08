@@ -41,7 +41,7 @@ Analista de datos especializado en Business Intelligence, visualización de dato
 | **[Comparativa de Modelos](https://comparativa-modelos-aerolinea.streamlit.app)** | ¿A quién estamos a punto de perder? | Gradient Boosting vs Baseline | ×2 mejora en predicción |
 | **[Data Analytics Portfolio](https://github.com/BORJAMOME/Data-Analytics-Portfolio)** | +50 notebooks de análisis exploratorio y Machine Learning | SQL, Python, EDA, +41 casos ML |
 
-### Recursos de Código
+### Recursos
 
 | Repositorio | Descripción | Contenido |
 |-------------|-------------|----------|
