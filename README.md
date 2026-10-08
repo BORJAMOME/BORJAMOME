@@ -48,7 +48,6 @@ Analista de datos especializado en Business Intelligence, visualización de dato
 | **[DAX LAB](https://github.com/BORJAMOME/DAX-LAB)** | Patrones DAX reutilizables y optimización | Time Intelligence, RLS, Ranking Dinámico |
 | **[Power BI Mockup Creator](https://borjamome.github.io/powerbi-mockup/)** | Herramienta para diseñar dashboards antes de implementarlos | Figma-style wireframing, Layout Grid |
 
-## Contacto
 
 <p align="center">
   <a href="https://borjamora.es">
