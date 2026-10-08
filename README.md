@@ -36,7 +36,7 @@ Analista de datos especializado en Business Intelligence, visualización de dato
 
 | Proyecto | Caso de Negocio | Técnica | Resultado |
 |----------|-----------------|---------|-----------|
-|**[Portfolio Personal](https://github.com/BORJAMOME/Data-Analytics-Portfolio)** | +50 notebooks de análisis exploratorio y Machine Learning | SQL, Python, EDA, +41 casos ML |
+|**[Portfolio Personal](https://github.com/BORJAMOME/Data-Analytics-Portfolio)** | +50 notebooks de casos de negocio aplicación modelos de ML | SQL, Python, EDA, +41 casos ML |
 | **[Segmentación Retail](https://segmentacion-retail.streamlit.app)** | ¿Todos tus clientes merecen la misma oferta? | K-Means + t-SNE | 96.8% acierto en segmento premium |
 | **[Forecast de Ventas](https://forecast-ventas-retail-app-w5msdvcsbuxas94qjcdore.streamlit.app)** | ¿Qué pasa cuando algo inesperado ocurre? | SARIMA vs SARIMAX | −32% error vs histórico |
 | **[Comparativa de Modelos](https://comparativa-modelos-aerolinea.streamlit.app)** | ¿A quién estamos a punto de perder? | Gradient Boosting vs Baseline | ×2 mejora en predicción |
