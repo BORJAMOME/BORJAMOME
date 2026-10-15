@@ -2,7 +2,7 @@
 
 Data Analyst | Power BI Developer | SQL | Python | Machine Learning
 
-Analista de datos especializado en Business Intelligence, visualización de datos y análisis de negocio. Me apasiona transformar datos en decisiones accionables mediante dashboards, modelos analíticos y storytelling con datos.
+Analista de datos especializado en Business Intelligence, visualización de datos y análisis de negocio. Me interesa convertir los datos en información útil para decidir, a través de dashboards, modelos analíticos y data storytelling.
 
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/BorjaMoMe-4670/FBA3A18829AE27A1">
   <img src="https://img.shields.io/badge/MICROSOFT_CERTIFIED-PL--300_POWER_BI_DATA_ANALYST-F2C811?style=flat-square&logo=microsoft&logoColor=black" alt="Microsoft Certified PL-300 Power BI Data Analyst" />
@@ -36,10 +36,10 @@ Analista de datos especializado en Business Intelligence, visualización de dato
 
 | Proyecto | Caso de Negocio | Técnica | Resultado |
 |----------|-----------------|---------|-----------|
-|**[Portfolio Personal](https://github.com/BORJAMOME/Data-Analytics-Portfolio)** | +50 notebooks de casos de negocio aplicando modelos de ML | SQL, Python, EDA, +41 casos ML |
-| **[Segmentación Retail](https://segmentacion-retail.streamlit.app)** | ¿Todos tus clientes merecen la misma oferta? | K-Means + t-SNE | 96.8% acierto en segmento premium |
-| **[Forecast de Ventas](https://forecast-ventas-retail-app-w5msdvcsbuxas94qjcdore.streamlit.app)** | ¿Qué pasa cuando algo inesperado ocurre? | SARIMA vs SARIMAX | −32% error vs histórico |
-| **[Comparativa de Modelos](https://comparativa-modelos-aerolinea.streamlit.app)** | ¿A quién estamos a punto de perder? | Gradient Boosting vs Baseline | ×2 mejora en predicción |
+| **[Portfolio Personal](https://github.com/BORJAMOME/Data-Analytics-Portfolio)** | 56 notebooks de casos de negocio, 41 de ellos de Machine Learning | SQL, Python, EDA, ML | Todos los casos, con su README |
+| **[Segmentación Retail](https://segmentacion-retail.streamlit.app)** | ¿Todos tus clientes merecen la misma oferta? | K-Means + t-SNE | El 96,8 % del grupo Premium coincide con el perfil original, que recupera en un 71,3 % |
+| **[Forecast de Ventas](https://forecast-ventas-retail-app-w5msdvcsbuxas94qjcdore.streamlit.app)** | ¿Qué pasa cuando algo inesperado ocurre? | SARIMA vs SARIMAX | Error un 32 % menor en 12 semanas de test, concentrado en 2 semanas con incidencia |
+| **[Comparativa de Modelos](https://comparativa-modelos-aerolinea.streamlit.app)** | ¿Qué modelo clasifica mejor a cada tipo de cliente? | Regresión Logística, Random Forest y Gradient Boosting | F1-macro de 0,784 en validación cruzada (0,662 con la Regresión Logística) |
 
 ### Recursos
 
