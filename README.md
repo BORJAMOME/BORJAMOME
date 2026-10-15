@@ -2,7 +2,7 @@
 
 Data Analyst | Power BI Developer | SQL | Python | Machine Learning
 
-Analista de datos especializado en Business Intelligence, visualización de datos y análisis de negocio. Me interesa convertir los datos en información útil para decidir, a través de dashboards, modelos analíticos y data storytelling.
+Analista de Datos Junior con Power BI como especialización y SQL y Python como herramientas de análisis. Analizo los datos, entiendo qué hay detrás de cada resultado y busco la mejor forma de visualizarlos y comunicarlos.
 
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/BorjaMoMe-4670/FBA3A18829AE27A1">
   <img src="https://img.shields.io/badge/MICROSOFT_CERTIFIED-PL--300_POWER_BI_DATA_ANALYST-F2C811?style=flat-square&logo=microsoft&logoColor=black" alt="Microsoft Certified PL-300 Power BI Data Analyst" />
@@ -27,7 +27,7 @@ Analista de datos especializado en Business Intelligence, visualización de dato
 
 | Proyecto | Descripción | Stack |
 |----------|-------------|-------|
-| **[CASA ORIGEN](https://github.com/BORJAMOME/casa-origen-analytics)** | Segmentación de clientes y análisis de cesta de la compra para cadena de cafeterías | Power BI, DAX, Machine Learning, SQL |
+| **[Casa Origen](https://github.com/BORJAMOME/casa-origen-analytics)** | Segmentación de clientes y análisis de cesta de la compra para cadena de cafeterías | Power BI, DAX, Machine Learning, SQL |
 | **[Informe IBCS](https://borjamora.es/ibcs-ventas.html)** | Dashboard de ventas bajo estándar IBCS integrando volumen, variación absoluta y porcentaje | Power BI, DAX, Modelado en estrella |
 | **[Kosta Cálida](https://borjamora.es/kosta-calida.html)** | Sistema de reporting integral para cadena de tiendas | Power BI, Power Query, Retail Analytics |
 | **[Informe Financiero Completo](https://borjamora.es/informe-financiero.html)** | Balance, PyG y Cash Flow conectados en una sola lectura | DAX Financiero, Modelado Contable |
@@ -41,7 +41,7 @@ Analista de datos especializado en Business Intelligence, visualización de dato
 | **[Forecast de Ventas](https://forecast-ventas-retail-app-w5msdvcsbuxas94qjcdore.streamlit.app)** | ¿Qué pasa cuando algo inesperado ocurre? | SARIMA vs SARIMAX | Error un 32 % menor en 12 semanas de test, concentrado en 2 semanas con incidencia |
 | **[Comparativa de Modelos](https://comparativa-modelos-aerolinea.streamlit.app)** | ¿Qué modelo clasifica mejor a cada tipo de cliente? | Regresión Logística, Random Forest y Gradient Boosting | F1-macro de 0,784 en validación cruzada (0,662 con la Regresión Logística) |
 
-### Recursos
+### Recursos creados
 
 | Repositorio | Descripción | Contenido |
 |-------------|-------------|----------|
