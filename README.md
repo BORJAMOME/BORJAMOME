@@ -35,7 +35,7 @@ Analista de Datos Junior con foco en Power BI y una orientación práctica al an
 
 | Proyecto | Caso de Negocio | Técnica | Resultado |
 |----------|-----------------|---------|-----------|
-| **[Mis proyectosl](https://github.com/BORJAMOME/Data-Analytics-Portfolio)** | Colección de proyectos que responden a preguntas de negocio | SQL, Python, EDA, ML | Todos los casos, con su README |
+| **[Mis proyectos](https://github.com/BORJAMOME/Data-Analytics-Portfolio)** | Colección de proyectos que responden a preguntas de negocio | SQL, Python, EDA, ML | Todos los casos, con su README |
 | **[Segmentación en Retail](https://segmentacion-retail.streamlit.app)** | ¿Todos tus clientes merecen la misma oferta? | K-Means + t-SNE | El 96,8 % del grupo Premium coincide con el perfil original, que recupera en un 71,3 % |
 | **[Forecast de Ventas](https://forecast-ventas-retail-app-w5msdvcsbuxas94qjcdore.streamlit.app)** | ¿Qué pasa cuando algo inesperado ocurre? | SARIMA vs SARIMAX | Error un 32 % menor en 12 semanas de test, concentrado en 2 semanas con incidencia |
 
