@@ -46,8 +46,7 @@ Analista de Datos Junior con foco en Power BI y una orientación práctica al an
 | **[DAX LAB](https://github.com/BORJAMOME/DAX-LAB)** | Patrones DAX reutilizables y optimización | 
 | **[Power BI Mockup Creator](https://borjamome.github.io/powerbi-mockup/)** | Herramienta para diseñar dashboards antes de implementarlos | 
 
-
-
+<br><br>
 
 <p align="center">
   <a href="https://borjamora.es">
