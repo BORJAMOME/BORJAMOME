@@ -1,8 +1,8 @@
-# Hola, soy Borja
+# Hola, soy Borja 👋
 
-Data Analyst | Power BI Developer | SQL | Python | Machine Learning
+Junior Data Analyst | Power BI Developer 
 
-Analista de Datos Junior con Power BI como especialización y SQL y Python como herramientas de análisis. Analizo los datos, entiendo qué hay detrás de cada resultado y busco la mejor forma de visualizarlos y comunicarlos.
+Analista de Datos Junior con foco en Power BI y una orientación práctica al análisis de datos mediante SQL y Python.
 
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/BorjaMoMe-4670/FBA3A18829AE27A1">
   <img src="https://img.shields.io/badge/MICROSOFT_CERTIFIED-PL--300_POWER_BI_DATA_ANALYST-F2C811?style=flat-square&logo=microsoft&logoColor=black" alt="Microsoft Certified PL-300 Power BI Data Analyst" />
@@ -28,25 +28,23 @@ Analista de Datos Junior con Power BI como especialización y SQL y Python como 
 | Proyecto | Descripción | Stack |
 |----------|-------------|-------|
 | **[Casa Origen](https://github.com/BORJAMOME/casa-origen-analytics)** | Segmentación de clientes y análisis de cesta de la compra para cadena de cafeterías | Power BI, DAX, Machine Learning, SQL |
-| **[Informe IBCS](https://borjamora.es/ibcs-ventas.html)** | Dashboard de ventas bajo estándar IBCS integrando volumen, variación absoluta y porcentaje | Power BI, DAX, Modelado en estrella |
-| **[Kosta Cálida](https://borjamora.es/kosta-calida.html)** | Sistema de reporting integral para cadena de tiendas | Power BI, Power Query, Retail Analytics |
-| **[Informe Financiero Completo](https://borjamora.es/informe-financiero.html)** | Balance, PyG y Cash Flow conectados en una sola lectura | DAX Financiero, Modelado Contable |
+| **[Informe Ventas IBCS](https://borjamora.es/ibcs-ventas.html)** | Dashboard de ventas bajo estándar IBCS integrando volumen, variación absoluta y porcentaje | Power BI, DAX, Modelado en estrella |
+| **[Informe Financiero](https://borjamora.es/informe-financiero.html)** | Balance, PyG y Cash Flow conectados en una sola lectura | DAX Financiero, Modelado Contable |
 
 ### Python · Análisis Avanzado
 
 | Proyecto | Caso de Negocio | Técnica | Resultado |
 |----------|-----------------|---------|-----------|
-| **[Portfolio Personal](https://github.com/BORJAMOME/Data-Analytics-Portfolio)** | 56 notebooks de casos de negocio, 41 de ellos de Machine Learning | SQL, Python, EDA, ML | Todos los casos, con su README |
-| **[Segmentación Retail](https://segmentacion-retail.streamlit.app)** | ¿Todos tus clientes merecen la misma oferta? | K-Means + t-SNE | El 96,8 % del grupo Premium coincide con el perfil original, que recupera en un 71,3 % |
+| **[Mis proyectosl](https://github.com/BORJAMOME/Data-Analytics-Portfolio)** | Colección de proyectos que responden a preguntas de negocio | SQL, Python, EDA, ML | Todos los casos, con su README |
+| **[Segmentación en Retail](https://segmentacion-retail.streamlit.app)** | ¿Todos tus clientes merecen la misma oferta? | K-Means + t-SNE | El 96,8 % del grupo Premium coincide con el perfil original, que recupera en un 71,3 % |
 | **[Forecast de Ventas](https://forecast-ventas-retail-app-w5msdvcsbuxas94qjcdore.streamlit.app)** | ¿Qué pasa cuando algo inesperado ocurre? | SARIMA vs SARIMAX | Error un 32 % menor en 12 semanas de test, concentrado en 2 semanas con incidencia |
-| **[Comparativa de Modelos](https://comparativa-modelos-aerolinea.streamlit.app)** | ¿Qué modelo clasifica mejor a cada tipo de cliente? | Regresión Logística, Random Forest y Gradient Boosting | F1-macro de 0,784 en validación cruzada (0,662 con la Regresión Logística) |
 
 ### Recursos creados
 
-| Repositorio | Descripción | Contenido |
-|-------------|-------------|----------|
-| **[DAX LAB](https://github.com/BORJAMOME/DAX-LAB)** | Patrones DAX reutilizables y optimización | Time Intelligence, RLS, Ranking Dinámico |
-| **[Power BI Mockup Creator](https://borjamome.github.io/powerbi-mockup/)** | Herramienta para diseñar dashboards antes de implementarlos | Figma-style wireframing, Layout Grid |
+| Repositorio | Descripción | 
+|-------------|-------------|
+| **[DAX LAB](https://github.com/BORJAMOME/DAX-LAB)** | Patrones DAX reutilizables y optimización | 
+| **[Power BI Mockup Creator](https://borjamome.github.io/powerbi-mockup/)** | Herramienta para diseñar dashboards antes de implementarlos | 
 
 
 <p align="center">
