@@ -47,6 +47,8 @@ Analista de Datos Junior con foco en Power BI y una orientación práctica al an
 | **[Power BI Mockup Creator](https://borjamome.github.io/powerbi-mockup/)** | Herramienta para diseñar dashboards antes de implementarlos | 
 
 
+
+
 <p align="center">
   <a href="https://borjamora.es">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=firefox&logoColor=white" />
